@@ -1,0 +1,45 @@
+{
+  "_template": "ШБ-008_RAG",
+  "_version": "1.0",
+  "_purpose": "Шаблон RAG-карточки для индексации знания и передачи ИИ-агентам. Заполнить все поля перед публикацией в 06_RAG.",
+
+  "id": "RAG-XXXX",
+  "title": "",
+  "category": "СТД | РГЛ | ИНС | ЭНЦ | FAQ | КЕЙС | Карточка_оборудования",
+  "source_document": {
+    "code": "",
+    "path": "",
+    "version": ""
+  },
+  "status": "Черновик",
+  "tags": [],
+  "equipment_types": [],
+
+  "content": {
+    "summary": "Краткое изложение факта/правила в 1-3 предложениях, пригодное для прямой вставки в ответ ИИ-агента",
+    "details": "Развёрнутое описание при необходимости",
+    "parameters": [
+      {
+        "name": "",
+        "norm": "",
+        "unit": "",
+        "method": ""
+      }
+    ],
+    "related_faults": [],
+    "related_solutions": []
+  },
+
+  "links": {
+    "related_documents": [],
+    "related_terms": []
+  },
+
+  "provenance": {
+    "author": "",
+    "ai_agent_used": null,
+    "prompt_reference": null,
+    "reviewed_by": null,
+    "date": ""
+  }
+}

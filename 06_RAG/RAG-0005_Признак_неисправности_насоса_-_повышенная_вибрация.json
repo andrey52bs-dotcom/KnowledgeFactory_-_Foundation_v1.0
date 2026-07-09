@@ -1,0 +1,39 @@
+{
+  "_template": "ШБ-008_RAG",
+  "_version": "1.0",
+  "id": "RAG-0005",
+  "title": "Признак неисправности насоса — повышенная вибрация",
+  "category": "СТД",
+  "source_document": {
+    "code": "СТД-003",
+    "path": "01_Стандарты_СТД/СТД-003/СТД-003_Диагностика_циркуляционных_насосов_v1.1.docx",
+    "version": "1.1"
+  },
+  "status": "Утверждено",
+  "tags": [],
+  "equipment_types": [],
+  "content": {
+    "summary": "Повышенная вибрация корпуса циркуляционного насоса — признак дисбаланса ротора или износа подшипников.",
+    "details": "",
+    "parameters": [],
+    "related_faults": [
+      "Износ подшипников",
+      "Дисбаланс ротора"
+    ],
+    "related_solutions": []
+  },
+  "links": {
+    "related_documents": [
+      "СТД-003",
+      "ЭНЦ-003"
+    ],
+    "related_terms": []
+  },
+  "provenance": {
+    "author": "Claude",
+    "ai_agent_used": "Claude",
+    "prompt_reference": "ПРМ-009",
+    "reviewed_by": "Редактор раздела 06_RAG",
+    "date": "2026-07-09"
+  }
+}

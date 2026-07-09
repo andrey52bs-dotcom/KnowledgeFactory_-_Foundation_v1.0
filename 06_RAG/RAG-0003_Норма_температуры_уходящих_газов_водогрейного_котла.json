@@ -1,0 +1,42 @@
+{
+  "_template": "ШБ-008_RAG",
+  "_version": "1.0",
+  "id": "RAG-0003",
+  "title": "Норма температуры уходящих газов водогрейного котла",
+  "category": "СТД",
+  "source_document": {
+    "code": "СТД-002",
+    "path": "01_Стандарты_СТД/СТД-002/СТД-002_Диагностика_водогрейных_котлов_v1.1.docx",
+    "version": "1.1"
+  },
+  "status": "Утверждено",
+  "tags": [],
+  "equipment_types": [],
+  "content": {
+    "summary": "Температура уходящих газов водогрейного котла не должна превышать 250 °C (типовое значение, требует проверки по факт. паспорту).",
+    "details": "",
+    "parameters": [
+      {
+        "name": "Температура уходящих газов",
+        "norm": "не выше 250 °C",
+        "unit": "°C",
+        "method": "термометр в дымоходе"
+      }
+    ],
+    "related_faults": [],
+    "related_solutions": []
+  },
+  "links": {
+    "related_documents": [
+      "СТД-002"
+    ],
+    "related_terms": []
+  },
+  "provenance": {
+    "author": "Claude",
+    "ai_agent_used": "Claude",
+    "prompt_reference": "ПРМ-009",
+    "reviewed_by": "Редактор раздела 06_RAG",
+    "date": "2026-07-09"
+  }
+}

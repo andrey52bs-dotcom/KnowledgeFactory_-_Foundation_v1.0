@@ -1,0 +1,35 @@
+{
+  "_template": "ШБ-008_RAG",
+  "_version": "1.0",
+  "id": "RAG-0008",
+  "title": "Требование безопасности при разборке теплообменника",
+  "category": "РГЛ",
+  "source_document": {
+    "code": "РГЛ-001",
+    "path": "02_Регламенты_РГЛ/РГЛ-001_Обслуживание_теплообменных_аппаратов_v1.1.docx",
+    "version": "1.1"
+  },
+  "status": "Утверждено",
+  "tags": [],
+  "equipment_types": [],
+  "content": {
+    "summary": "Разборка теплообменного аппарата выполняется не менее чем двумя исполнителями, с оформлением наряда-допуска на работы повышенной опасности.",
+    "details": "",
+    "parameters": [],
+    "related_faults": [],
+    "related_solutions": []
+  },
+  "links": {
+    "related_documents": [
+      "РГЛ-001"
+    ],
+    "related_terms": []
+  },
+  "provenance": {
+    "author": "Claude",
+    "ai_agent_used": "Claude",
+    "prompt_reference": "ПРМ-009",
+    "reviewed_by": "Редактор раздела 06_RAG",
+    "date": "2026-07-09"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_template": "ШБ-008_RAG",
+  "_version": "1.0",
+  "id": "RAG-0015",
+  "title": "Признак накипеобразования на ТЭН",
+  "category": "СТД",
+  "source_document": {
+    "code": "СТД-004",
+    "path": "01_Стандарты_СТД/СТД-004/СТД-004_Диагностика_электрических_котлов_v1.0.docx",
+    "version": "1.0"
+  },
+  "status": "Утверждено",
+  "tags": [],
+  "equipment_types": [],
+  "content": {
+    "summary": "Рост времени выхода электрокотла на рабочую температуру при неизменной потребляемой мощности — признак накипеобразования на поверхности ТЭН.",
+    "details": "",
+    "parameters": [],
+    "related_faults": [
+      "Накипеобразование на ТЭН"
+    ],
+    "related_solutions": [
+      "Очистка ТЭН от накипи"
+    ]
+  },
+  "links": {
+    "related_documents": [
+      "СТД-004",
+      "ЭНЦ-004"
+    ],
+    "related_terms": []
+  },
+  "provenance": {
+    "author": "Claude",
+    "ai_agent_used": "Claude",
+    "prompt_reference": "ПРМ-009",
+    "reviewed_by": "Редактор раздела 06_RAG",
+    "date": "2026-07-12"
+  }
+}
